@@ -14,3 +14,5 @@ artifacts:
     - report/*
 reports: #New
   KatalonTestReports: # CodeBuild will create a report group called "KatalonTetReport".
+   files: #Store all of the files
+      - 'report/JUnit_Report.xml'

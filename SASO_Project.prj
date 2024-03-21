@@ -4,10 +4,13 @@
    <name>SASO_Project</name>
    <tag></tag>
    <UUID>9da4097b-dfd7-4518-810d-2c67a171d091</UUID>
+   <createdVersion>9.3.1</createdVersion>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.3.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/vaibhavjain/Katalon Studio/SASO_Project/SASO_Project.prj</projectFileLocation>
+   <projectFileLocation>/Users/vaibhavjain/Katalon Studio/Generic_Demo/SASO_Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mobile  Get Element Height</name>
+   <tag></tag>
+   <elementGuidId>edf70624-e28f-46e0-950a-79c77ec8bf59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Studio'])[1]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.DocSearch-Hit-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d989e6ea-67ee-4d6e-9bd0-dcf61ee3e357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DocSearch-Hit-title</value>
+      <webElementGuid>7f015807-c61a-48eb-a7b1-3e808c4ecda2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Mobile]  Get Element Height</value>
+      <webElementGuid>8d9d6ff3-fb77-4320-bf6e-2e9466eddbf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;docsearch-item-0&quot;)/a[1]/div[@class=&quot;DocSearch-Hit-Container&quot;]/div[@class=&quot;DocSearch-Hit-content-wrapper&quot;]/span[@class=&quot;DocSearch-Hit-title&quot;]</value>
+      <webElementGuid>1cfd9ad8-2560-4bee-aa77-c6dbaf17a2ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Studio'])[1]/following::span[1]</value>
+      <webElementGuid>9fa04642-8c87-49be-ac4b-ebe45128e037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
+      <webElementGuid>431ca75b-3206-4eec-ae53-91ecf63ff104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='[']/parent::*</value>
+      <webElementGuid>6cd2f003-528d-4f3e-b6c5-8ef0cb7bb97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='docsearch-item-0']/a/div/div[2]/span</value>
+      <webElementGuid>86e643fd-e445-44c0-82e9-92879566ace0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>91a308ae-413f-425f-a389-c72ee5e71733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '[Mobile]  Get Element Height' or . = '[Mobile]  Get Element Height')]</value>
+      <webElementGuid>d3925688-e2a6-4e3d-9c7e-4b3ce1e41fb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

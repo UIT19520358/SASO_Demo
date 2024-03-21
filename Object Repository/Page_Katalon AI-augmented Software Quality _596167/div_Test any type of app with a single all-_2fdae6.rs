@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test any type of app with a single all-_2fdae6</name>
+   <tag></tag>
+   <elementGuidId>5711c3a4-05a4-4466-be81-aed17c82a504</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[2]/following::div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.section_desc</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>79d2e062-7f9d-4d54-b30d-5cee36ec9890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>section_desc</value>
+      <webElementGuid>0846d4fc-e270-4fe9-9688-02a3a83bddff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test any type of app with a single all-in-one platform that's easy for beginners, yet powerful for pros.</value>
+      <webElementGuid>bf45cc30-8704-4fb1-bc6b-4725768ccea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[1]/div[@class=&quot;HomePage_wrapHomePage__zdHwS&quot;]/section[@class=&quot;hero_section&quot;]/div[@class=&quot;left_content&quot;]/div[@class=&quot;section_desc&quot;]</value>
+      <webElementGuid>28f2c5b0-0571-46c7-a020-dca192a1a807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All jobs'])[2]/following::div[4]</value>
+      <webElementGuid>5e92c391-8a69-42bb-9166-6b45e4adf227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start free trial'])[3]/preceding::div[1]</value>
+      <webElementGuid>d761f189-03a9-4287-8006-b27450dc021d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View demo'])[1]/preceding::div[3]</value>
+      <webElementGuid>8ddf676d-de9b-4f47-9e5e-cda08148f2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div[2]/section/div/div</value>
+      <webElementGuid>a64520c9-af92-4975-9f5d-ac042e086bec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div/div</value>
+      <webElementGuid>4b829f20-0624-4370-844a-1b9e7f1f3f4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Test any type of app with a single all-in-one platform that&quot; , &quot;'&quot; , &quot;s easy for beginners, yet powerful for pros.&quot;) or . = concat(&quot;Test any type of app with a single all-in-one platform that&quot; , &quot;'&quot; , &quot;s easy for beginners, yet powerful for pros.&quot;))]</value>
+      <webElementGuid>a070fc78-806e-4e0e-a38e-9d745efc9546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

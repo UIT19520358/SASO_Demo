@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search</name>
+   <tag></tag>
+   <elementGuidId>0c418429-9ffb-40ae-b30a-a51455ccaf88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon docs'])[1]/following::span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.DocSearch-Button-Placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dc1ef730-f967-47cc-bd4d-25d26140fd2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DocSearch-Button-Placeholder</value>
+      <webElementGuid>e4d73cd6-a166-4a5a-b84d-5e9cf39ccbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>93424fdb-e740-4796-bf53-fdbf380930fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/nav[@class=&quot;navbar navbar--fixed-top&quot;]/div[@class=&quot;navbar__inner&quot;]/div[@class=&quot;navbar__items&quot;]/div[@class=&quot;searchBox_ZlJk&quot;]/button[@class=&quot;DocSearch DocSearch-Button&quot;]/span[@class=&quot;DocSearch-Button-Container&quot;]/span[@class=&quot;DocSearch-Button-Placeholder&quot;]</value>
+      <webElementGuid>c444a78d-1903-4562-9280-724f27e34517</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon docs'])[1]/following::span[2]</value>
+      <webElementGuid>d41857ce-f46f-4a1f-b44b-e7c7054a3b17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::span[2]</value>
+      <webElementGuid>17aae3ed-a2f3-40b5-8f62-2a86d003a7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='⌘'])[1]/preceding::span[1]</value>
+      <webElementGuid>fe09a0a5-73bf-40d4-982c-c49ac7ae1e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/preceding::span[1]</value>
+      <webElementGuid>6eb0ea62-9805-4d15-9837-cbd796089d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>f884ff9d-2f75-468b-b240-2bba3921516a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/nav/div/div/div/button/span/span</value>
+      <webElementGuid>f6f4a506-86b2-4e54-9f7c-0bfbe5afd07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>f11a146c-fd9c-43b3-a2a4-5b5de82fd26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>9e65af38-7a3c-44cb-a418-8d9bfec42ddf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

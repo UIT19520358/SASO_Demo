@@ -7,14 +7,19 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btn-book-appointment</value>
+         <value>#btn-book-appointment125613564</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'btn-book-appointment' and @type = 'submit' and (text() = 'Book Appointment' or . = 'Book Appointment')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@id='btn-book-appointment']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +27,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f3da7069-897e-48e9-88a2-09abcb2affc6</webElementGuid>
+      <webElementGuid>94c308d2-5677-444c-8566-899d9b6239d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +35,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btn-book-appointment</value>
-      <webElementGuid>6762f28c-71c3-4395-a5c1-7617225a9739</webElementGuid>
+      <webElementGuid>fbb56733-de75-465f-9d64-1f466d9346fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +43,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>e46f780f-a9a9-46de-8b81-a214392ae1d2</webElementGuid>
+      <webElementGuid>3314be51-00be-4a84-a1d2-a8fa799ce992</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +51,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-default</value>
-      <webElementGuid>dc72c558-0159-409a-9dd6-fa589d2b5adf</webElementGuid>
+      <webElementGuid>651b1cb8-74a4-496a-a62b-dd01119932d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +59,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Book Appointment</value>
-      <webElementGuid>f1cf3612-e47d-4035-ac32-1cf5421622d8</webElementGuid>
+      <webElementGuid>e13ec9e7-4f75-4990-8f82-f2f59ca432e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +67,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btn-book-appointment&quot;)</value>
-      <webElementGuid>33748fa4-2255-4a24-be2b-0c6ae752fe9a</webElementGuid>
+      <webElementGuid>cdf35993-f35c-46d6-b222-6a28382f5587</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +75,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='btn-book-appointment']</value>
-      <webElementGuid>08509934-73ec-46d7-9dd4-9dad6fe09c5c</webElementGuid>
+      <webElementGuid>145f80db-0372-4055-a344-be3629a09a0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +83,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//section[@id='appointment']/div/div/form/div[6]/div/button</value>
-      <webElementGuid>8799b8c1-1969-4a8d-8b8e-d1670f5998fc</webElementGuid>
+      <webElementGuid>58d4cc4f-43b4-4f39-88cf-591d7e7052b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +91,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>918709fd-25d9-477c-9573-56256d3f12f2</webElementGuid>
+      <webElementGuid>970ac8ef-971f-44b8-9f34-1c7c0a7c560e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +99,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'btn-book-appointment' and @type = 'submit' and (text() = 'Book Appointment' or . = 'Book Appointment')]</value>
-      <webElementGuid>9d61464d-8964-4653-bef4-af6e30ec8238</webElementGuid>
+      <webElementGuid>972c027a-e184-44b0-9361-1f8b470b6384</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

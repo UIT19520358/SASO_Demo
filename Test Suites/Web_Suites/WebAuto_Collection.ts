@@ -12,7 +12,7 @@
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
             <requireConfigurationData>false</requireConfigurationData>
-            <runConfigurationId>Safari</runConfigurationId>
+            <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Web_Suites/WebAuto_Suite</testSuiteEntity>
@@ -21,26 +21,11 @@
          <configuration>
             <groupName>Web Desktop</groupName>
             <profileName>default</profileName>
-            <requireConfigurationData>true</requireConfigurationData>
-            <runConfigurationData>
-               <entry>
-                  <key>testCloudEnvironment</key>
-                  <value>{
-  &quot;id&quot;: 331,
-  &quot;osDisplayName&quot;: &quot;Windows&quot;,
-  &quot;browserName&quot;: &quot;chrome&quot;,
-  &quot;browserDisplayName&quot;: &quot;Chrome&quot;,
-  &quot;browserVersion&quot;: &quot;120&quot;,
-  &quot;os&quot;: &quot;windows&quot;,
-  &quot;timeout&quot;: 15,
-  &quot;usingTunnel&quot;: false
-}</value>
-               </entry>
-            </runConfigurationData>
-            <runConfigurationId>TestCloud</runConfigurationId>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Web_Suites/WebAuto_Suite</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Web_Suites/BDD_Suite</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

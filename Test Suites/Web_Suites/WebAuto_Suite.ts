@@ -55,4 +55,48 @@
          <variableId>ab23fe32-540f-466a-843f-a5498904c7be</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>ac8c7cb4-1f41-4bf6-8d62-6476f72e1fd2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web_Automation/Web_Automation_TC1</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0bc70ad8-a408-4c9d-a5b7-2f6e1248a6a9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API_Automation/Find user by ID</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cdbfb918-23e8-47c9-98a0-94180ea738a8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3c18d2e3-1084-4cd8-8aee-7a7b987b32a5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>59c707fd-5482-473b-aafb-0eb899791c6e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aa163211-755f-4f4e-8e17-76547995f8f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>932223f6-a8ad-438e-8faa-194d6f8b670e</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

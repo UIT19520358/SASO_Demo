@@ -19,13 +19,6 @@
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>a793bf24-7968-4e53-93c2-f9e56855c1a0</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Web_Automation/Web_Automation_TC1</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>5400b642-7f8f-4821-91a5-1a1f7ccbca5f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

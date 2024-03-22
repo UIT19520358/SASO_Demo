@@ -55,11 +55,4 @@
          <variableId>ab23fe32-540f-466a-843f-a5498904c7be</variableId>
       </variableLink>
    </testCaseLink>
-   <testCaseLink>
-      <guid>f1011dae-2ae4-4337-8c67-295b3b875319</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Web_Automation/Web_Automation_TC1</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
 </TestSuiteEntity>

@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-latest
+    runs-on: mac-latest
     steps:
       with:
           version: '9.5.0'

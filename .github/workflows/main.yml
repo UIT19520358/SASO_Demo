@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: mac-latest
     steps:
-     - name: Checkout
+    - name: Checkout
       uses: actions/checkout@v3.0
     - name: Katalon Studio Github Action
       uses: katalon-studio/katalon-studio-github-action@v3.0

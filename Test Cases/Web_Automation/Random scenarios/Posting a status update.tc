@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC1_Google_Scenario</name>
-   <tag>tag1</tag>
+   <name>Posting a status update</name>
+   <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>193386b0-a692-4883-b39c-931932de7789</testCaseGuid>
+   <testCaseGuid>3d1da7ec-34cd-417f-afc4-e29e313c345b</testCaseGuid>
 </TestCaseEntity>

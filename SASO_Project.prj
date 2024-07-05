@@ -8,9 +8,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.3.2</modifiedVersion>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/vaibhavjain/Katalon Studio/Generic_Demo/SASO_Project.prj</projectFileLocation>
+   <projectFileLocation>E:\Katalon\Katalon Studio\SASO_Demo\SASO_Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

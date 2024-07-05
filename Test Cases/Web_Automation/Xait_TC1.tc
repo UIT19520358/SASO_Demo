@@ -2,7 +2,8 @@
 <TestCaseEntity>
    <description></description>
    <name>Xait_TC1</name>
-   <tag></tag>
+   <tag>tag1</tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>23b26f57-d9a7-48ff-9fd8-274fc84086f0</testCaseGuid>
 </TestCaseEntity>

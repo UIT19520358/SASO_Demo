@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC1_Google_Scenario</name>
-   <tag>tag1</tag>
+   <name>Requesting a prescription refill</name>
+   <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>193386b0-a692-4883-b39c-931932de7789</testCaseGuid>
+   <testCaseGuid>7e0ed97b-81c5-4e1a-a989-b278ad6c9297</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC1_Google_Scenario</name>
-   <tag>tag1</tag>
+   <name>Updating user profile information</name>
+   <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>193386b0-a692-4883-b39c-931932de7789</testCaseGuid>
+   <testCaseGuid>85f91c57-5aa0-47b7-8b4e-dc0afcb43f6c</testCaseGuid>
 </TestCaseEntity>

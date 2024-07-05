@@ -4,5 +4,6 @@
    <name>StudioAssist_TC</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>6c363b1d-bc39-4f69-ab09-7400bbdaa6a1</testCaseGuid>
 </TestCaseEntity>
